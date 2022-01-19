@@ -1,4 +1,4 @@
 # Optimzing-Web-Forms-using-A-B-Testing-and-Reinforcement-Learning
-Project done as a part of course CSC2558 - Topics in Multidisciplinary HCI: Designing Intelligent Self-Improving Systems Through Human Computation, Randomized A/B Experiments and Statistical Machine Learning Fall 2021 by Joseph Jay Williams
+Project done as a part of course CSC2558 - Topics in Multidisciplinary HCI: Designing Intelligent Self-Improving Systems Through Human Computation, Randomized A/B Experiments and Statistical Machine Learning Fall 2021 by Professor Joseph Jay Williams
 
 In this project, we aim to perform a series of experiments to test various approaches to optimize the Web Forms by improving user experience. The web forms are developed by incorporating Design Thinking principles. Furthermore, we apply approaches such as the Randomized A/B Testing and the Multi-armed Bandit Algorithms to evaluate the likelihood of a user choosing to fill  Form B over another Form A. We aim to comprehensively compare these algorithms and evaluate which one yields the most efficient solution.
